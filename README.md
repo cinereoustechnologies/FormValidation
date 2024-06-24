@@ -24,7 +24,7 @@ This example showcases a contact form created with JavaScript, which includes cl
     ```
 2. Navigate to the project directory:
     ```sh
-    cd javascript-form-validation
+    cd FormValidation
     ```
 
 ## Usage
@@ -158,10 +158,7 @@ window.validateForm = function() {
 # Return Validation Result: Return true if all fields are valid, otherwise return false.
 ```
 
-# Contact
- Your Name - Chandini  - chandini@cinereoustechnologies.com
 
-Project Link: https://github.com/cinereoustechnologies/FormValidation.git
 
 
 
