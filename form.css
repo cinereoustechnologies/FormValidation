@@ -1,0 +1,34 @@
+body {
+    background: rgb(56, 165, 255);padding: 0 24px;height: 100vh;display: flex;justify-content: center;align-items: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+input,textarea {
+    width: 100%;
+    height: 25px;
+    padding: 5px;
+    outline: none;
+    margin: 10px 0;
+    border-radius: 6px;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+}
+label {
+    font-size: 18px;
+
+}
+button {
+    width: 100%;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+}
+#message {
+    height: 70px;
+}
